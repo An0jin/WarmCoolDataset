@@ -39,7 +39,15 @@
 ---
 
 
-## 🛠 기술 스택
+## 🛠 사용 기술
+
+- [roboflow](https://universe.roboflow.com/)
+- github
+
+---
+
+
+## 💻 기술 스택
 - **AI/ML**: YOLOv11-CLS, Ultralytics
 - **백엔드**: FastAPI, MySQL
 - **프론트엔드**: Unity, ARFoundation
