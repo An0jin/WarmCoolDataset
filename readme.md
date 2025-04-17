@@ -33,7 +33,7 @@
 ### 5. [WarmCoolDataset](https://github.com/anyoungjin20040106/WarmCoolDataset)
 - roboflow를 활용한 데이터 수집
 - github를 활용한 데이터 수집
-- 데이터 전처리
+- 데이터 라벨링
 
 
 ---
@@ -45,8 +45,6 @@
 - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
 
 ---
-
-
 
 ## 💻 기술 스택
 - **AI/ML**: ![Ultralytics(YOLOv11-CLS)](https://img.shields.io/badge/YOLOv11--CLS(Ultralytics)-111F68?style=flat&logo=Ultralytics&logoColor=white)
