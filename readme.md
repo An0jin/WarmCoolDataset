@@ -17,7 +17,7 @@
 - FastAPI 기반 백엔드 서버
 - YOLOv11-CLS 모델 서빙
 - RESTful API 엔드포인트 제공
-- MySQL 데이터베이스 연동
+- Postgresql 데이터베이스 연동
 
 ### 3. [WarmCoolUnity](https://github.com/anyoungjin20040106/WarmCoolUnity)
 - Unity 기반 AR 애플리케이션
@@ -49,8 +49,7 @@
 
 ## 💻 기술 스택
 - **AI/ML**: YOLOv11-CLS, Ultralytics
-- **백엔드**: FastAPI, MySQL
+- **백엔드**: FastAPI, Postgresql
 - **프론트엔드**: Unity, ARFoundation
 - **데이터 관리**: Roboflow, Python
-- **네트워킹**: Photon PUN2
-- **개발 도구**: Jupyter Notebook
+- **네트워킹**: Photon Chat
