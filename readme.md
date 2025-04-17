@@ -41,7 +41,7 @@
 
 ## 🛠 사용 기술
 
-- ![roboflow](https://universe.roboflow.com/)
+- ![Roboflow](https://img.shields.io/badge/-roboflow-6706CE?style=flat&logo=roboflow&logoColor=white)
 - ![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github&logoColor=white)
 
 ---
