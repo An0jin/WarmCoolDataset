@@ -52,4 +52,5 @@
 - **백엔드**: FastAPI, Postgresql
 - **프론트엔드**: Unity, ARFoundation
 - **데이터 관리**: Roboflow, Python
-- **네트워킹**: Photon Chat
+- **네트워킹**: Photon Chat- 
+- **데이터**: Roboflow
